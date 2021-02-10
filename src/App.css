@@ -1,0 +1,17 @@
+.App {
+  
+    text-align: center;
+    background-color: #071b4250;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 30% 0;
+    width: 450px;
+    height: 200px;
+  
+}
+
+.count{
+    margin-top: 35px;
+    
+    
+}
